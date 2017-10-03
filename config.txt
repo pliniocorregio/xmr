@@ -111,8 +111,8 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "198.251.81.168:777",
-"wallet_address" : "pliniocorregio@gmail.com",
+"pool_address" : "198.251.81.168:9050",
+"wallet_address" : "49g8RuZHwh8QXXyCFCA9vYfsjpUkozn6CcojeK6krUmcetVkQMpaqkWSCFNr94Dtjkdgt1oHTbMaDR4N9obXLfWSDtvjQkS.vmx",
 "pool_password" : "",
 
 /*
