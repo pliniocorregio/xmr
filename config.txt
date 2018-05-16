@@ -111,8 +111,8 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "198.251.81.168:9050",
-"wallet_address" : "49g8RuZHwh8QXXyCFCA9vYfsjpUkozn6CcojeK6krUmcetVkQMpaqkWSCFNr94Dtjkdgt1oHTbMaDR4N9obXLfWSDtvjQkS.vmx",
+"pool_address" : "xmr-eu.dwarfpool.com:9050",
+"wallet_address" : "445jnVFM6wWrVgfC89kezm3gcL9bGdEEidPcG27Jwcyjmfi3pgPgzBJFgSCdc3oH4cnhjitrX36NZKHXWAC45ZeumM1Bxb1J.vmx",
 "pool_password" : "",
 
 /*
